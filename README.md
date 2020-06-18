@@ -1,2 +1,2 @@
 # Tindog
-Created tindog website using HTML5, CSS and Bootstramp frames and classes. 
+Created tindog website using HTML5, CSS and Bootstrap frames and classes. 
